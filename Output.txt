@@ -1,0 +1,46 @@
+/*
+ * Name:        Shaun Lee
+ * Project:     Dijkstra's Algorithm Implementation 
+ * Description: This is the output file for the test cases
+ * Date:        December 1st, 2023
+ */
+
+Test1:
+Start: HNL
+
+End: PVD
+
+Shortest route between HNL to PVD is: 5147
+Path: HNL -> LAX -> ORD -> PVD
+
+--------------------------------------------
+
+Test2:
+Start: SFO
+
+End: MIA
+
+Shortest route between SFO to MIA is: 2690
+Path: SFO -> LAX -> DFW -> MIA
+
+--------------------------------------------
+
+Own Test Case1:
+Start: LAX
+
+End: LGA
+
+Shortest route between LAX to LGA is: 2620
+Path: LAX -> DFW -> LGA
+
+--------------------------------------------
+
+Own Test Case2:
+
+Start: ORD
+
+End: LGA
+
+Shortest route between ORD to LGA is: 991
+Path: ORD -> PVD -> LGA
+

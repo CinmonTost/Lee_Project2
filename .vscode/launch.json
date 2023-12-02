@@ -1,0 +1,35 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Dijkstras_Algorithm",
+            "request": "launch",
+            "mainClass": "Dijkstras_Algorithm",
+            "projectName": "Lee_Project2_b770aadd"
+        },
+        {
+            "type": "java",
+            "name": "ShortestPath",
+            "request": "launch",
+            "mainClass": "ShortestPath",
+            "projectName": "Lee_Project2_b770aadd"
+        },
+        {
+            "type": "java",
+            "name": "reference",
+            "request": "launch",
+            "mainClass": "reference",
+            "projectName": "Lee_Project2_b770aadd"
+        }
+    ]
+}
