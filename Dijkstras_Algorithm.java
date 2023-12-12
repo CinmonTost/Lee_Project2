@@ -38,7 +38,7 @@ public class Dijkstras_Algorithm
             System.out.println();
             System.out.print("End: ");
             end = sc.nextLine();
-
+            
             if (airport.contains(end))
             {
                 valid_end = true;
@@ -182,6 +182,3 @@ public class Dijkstras_Algorithm
     }
     
 }
-
-
-
